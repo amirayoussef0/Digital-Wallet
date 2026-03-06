@@ -1,0 +1,20 @@
+{
+    "users": {
+        "Amira": {
+            "password": "123",
+            "balance": 2500.0
+        },
+        "Omar": {
+            "password": "456",
+            "balance": 4000.0
+        },
+        "Yehia": {
+            "password": "135",
+            "balance": 3500.0
+        },
+        "Malak": {
+            "password": "4321",
+            "balance": 3000.0
+        }
+    }
+}
